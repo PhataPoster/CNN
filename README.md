@@ -158,7 +158,7 @@ The confusion matrix shows performance on the standard test set classes: Rock, P
 
 ## 8. Custom Phone Image Predictions
 
-<img width="1438" height="1229" alt="image" src="https://github.com/user-attachments/assets/44043be0-e649-4d10-a440-9312110aa731" />
+<img width="1436" height="923" alt="download3" src="https://github.com/user-attachments/assets/6e08470b-9212-4a0c-b773-45677e4534ee" />
 
 ## 9. Error Analysis (Misclassified Examples)
 <img width="816" height="299" alt="image" src="https://github.com/user-attachments/assets/949b7302-6abb-498e-b6d4-db077ca9333b" />
