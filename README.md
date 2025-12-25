@@ -1,8 +1,8 @@
-## Student Information
-Name: Md Ashikur Rahman
-Student ID: 210110
-Course: Artificial Intelligence and Machine learning Lab
-Course Code: CSE 3202
+# Student Information
+Name: Md Ashikur Rahman  
+Student ID: 210110  
+Course: Artificial Intelligence and Machine learning Lab  
+Course Code: CSE 3202  
 
 # Rock–Paper–Scissors Classification with CNN (PyTorch)
 
@@ -36,7 +36,7 @@ model/210110.pth: The trained PyTorch model weights (state_dict).
 ```
 ## 3. Dataset Details
 
-# 3.1 Standard Dataset: Rock–Paper–Scissors
+### 3.1 Standard Dataset: Rock–Paper–Scissors
 Source: tensorflow_datasets (rock_paper_scissors)
 Number of classes: 3
 Class 0: Rock
@@ -53,7 +53,7 @@ transforms.Compose([
                          std=[0.5, 0.5, 0.5])
 ])
 ```
-# 3.2 Custom Smartphone Images
+### 3.2 Custom Smartphone Images
 I took photos of my own hand making:
 Rock (fist)
 Paper (open hand)
@@ -164,7 +164,7 @@ The confusion matrix shows performance on the standard test set classes: Rock, P
 <img width="816" height="299" alt="image" src="https://github.com/user-attachments/assets/949b7302-6abb-498e-b6d4-db077ca9333b" />
 
 ## 10. How to Run This Project
-# 10.1 Run in Google Colab
+### 10.1 Run in Google Colab
 Open the notebook in Colab:
 https://colab.research.google.com/drive/1BMtl8_2g2RPHELZH8Q5qJbSBL2QQh40q?usp=sharing
 
@@ -185,7 +185,7 @@ Custom prediction gallery from images in dataset/.
 Error analysis plots.
 No manual file uploads are required during the run.
 
-# 10.2 Requirements
+### 10.2 Requirements
 The notebook installs required packages automatically in Colab:
 torch, torchvision
 tensorflow, tensorflow-datasets
