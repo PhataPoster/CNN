@@ -1,3 +1,9 @@
+## Student Information
+Name: Md Ashikur Rahman
+Student ID: 210110
+Course: Artificial Intelligence and Machine learning Lab
+Course Code: CSE 3202
+
 # Rock–Paper–Scissors Classification with CNN (PyTorch)
 
 ## 1. Project Overview
@@ -152,6 +158,8 @@ The confusion matrix shows performance on the standard test set classes: Rock, P
 
 ## 8. Custom Phone Image Predictions
 
+<img width="1438" height="1229" alt="image" src="https://github.com/user-attachments/assets/44043be0-e649-4d10-a440-9312110aa731" />
+
 ## 9. Error Analysis (Misclassified Examples)
 <img width="816" height="299" alt="image" src="https://github.com/user-attachments/assets/949b7302-6abb-498e-b6d4-db077ca9333b" />
 
@@ -190,8 +198,3 @@ More epochs
 Data augmentation
 A deeper CNN or transfer learning
 
-## 12. Student Information
-Name: 210110
-Student ID: 210110
-Course: Artificial Intelligence and Machine learning Lab
-Course Code: CSE 3202
